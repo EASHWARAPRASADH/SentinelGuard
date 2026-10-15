@@ -6,3 +6,29 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+.DS_Store
+
+# LaTeX intermediate build files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Other students' project folders and reports
+CloudCostIQ_Project/
+CloudCostIQ_Project_Report.pdf
+Deadline_Radar_Project/
+Deadline_Radar_Project_Report.pdf
+RetailSense_Project/
+RetailSense_Project_Report.pdf
+SmartSpend_AI_Project/
+SmartSpend_AI_Project_Report.docx
+SmartSpend_AI_Project_Report.pdf
+SecureCloud_AI_Project/
+SecureCloud_AI_Project_Report.docx
+SecureCloud_AI_Project_Report.pdf
